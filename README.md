@@ -1,4 +1,4 @@
-<img src="(https://media.istockphoto.com/id/157639696/photo/purple-space-stars.jpg?s=612x612&w=0&k=20&c=fkLtGZxUS9UPlLJUTeGjvvURT0u-vtxvj5sAYbDNrH4=)" alt="[Insert Galaxy Photo Here!]" width="25" height="30">
+<img src="https://github.com/user-attachments/assets/1d9457ce-1ea9-4801-97dd-82c075e85b46" alt="[Insert Galaxy Photo Here!]" width="612" height="362">
 
 <h1 style="text-align:center;"> &#127775; Welcome to our ReadMe! &#127775;</h1>
 
