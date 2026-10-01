@@ -1,6 +1,6 @@
 <html>
 <h1> &#127776; </h1>
-  
+# &#127776;
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1d9457ce-1ea9-4801-97dd-82c075e85b46" alt="[Insert Galaxy Photo Here!]" width="612" height="362" >
 </p>
