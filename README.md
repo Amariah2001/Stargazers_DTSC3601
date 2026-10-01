@@ -16,7 +16,7 @@
 <ul>
 <li>Python 3.10+ (Pandas, NumPy, Scikit-Learn, Requests)</li>
 <li>AWS CLI configured with S3 bucket read/write access</li>
-<li></li> 
+<li>Possibly an API token <b>(double check!!!)</b></li> 
 </ul>
 </p>
 
