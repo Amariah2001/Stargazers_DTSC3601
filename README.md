@@ -1,3 +1,5 @@
+<img src="Galaxy Stock Photo.jpeg">
+
 <h1 style="text-align:center;"> &#127775; Welcome to our ReadMe! &#127775;</h1>
 
 <h3> About Our Project </h3>
