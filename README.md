@@ -1,4 +1,4 @@
-<img src="Galaxy Stock Photo.jpeg">
+<img src="GalaxyPhoto.jpg" width="25" height="30">
 
 <h1 style="text-align:center;"> &#127775; Welcome to our ReadMe! &#127775;</h1>
 
