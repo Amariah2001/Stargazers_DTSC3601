@@ -40,9 +40,9 @@ Note: Please be as detailed as possible when submitting your questions and conce
   <li><a href="https://www.cmu.edu/cttec/forms/opensourcelicensegridv1.pdf"> Carnegie Mellon University Open-Source License Comparisons</a> </li> <br>
   <li><a href="https://openweathermap.org/full-price#licenses"> OpenWeatherMap License Agreement </a></li>
   </ul>
-</p>
+</p> <br>
 
-Thank you for reading our README and enjoy the project!! &#127776;
+&#127776; Thank you for reading our README and enjoy the project!! &#127776;
 
 </body>
 </html>
