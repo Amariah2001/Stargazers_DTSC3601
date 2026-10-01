@@ -1,13 +1,11 @@
 <html>
-<h1> &#127776; </h1>
 
-<!--
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1d9457ce-1ea9-4801-97dd-82c075e85b46" alt="[Insert Galaxy Photo Here!]" width="612" height="362" >
 </p>
--->
+
 <body> 
-<h1 align="center"> &#127775; Welcome to our ReadMe! &#127775;</h1>
+<h1 align="center"> &#127776; Welcome to our ReadMe! &#127776;</h1>
 
 <h3> About Our Project </h3>
 <p> Our project is the Stargazing Quality Predictor, which will use a combination of humidity, temperature, and visibility to determine the most likely quality of stargazing the next night. The project is useful because it will help anyone from an amateur level to possibly experts determine if the next night is a good night to stargaze or not. This can reduce near-misses of seeing an astrological event occurring, and gives people time to plan, if needed.
