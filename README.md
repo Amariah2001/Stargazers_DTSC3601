@@ -1,4 +1,4 @@
-<img src="(https://github.com/Amariah2001/Stargazers_DTSC3601/blob/main/GalaxyPhoto.jpg)" alt="[Insert Galaxy Photo Here!]" width="25" height="30">
+<img src="https://github.com/Amariah2001/Stargazers_DTSC3601/blob/main/GalaxyPhoto.jpg?raw=true" alt="[Insert Galaxy Photo Here!]" width="25" height="30">
 
 <h1 style="text-align:center;"> &#127775; Welcome to our ReadMe! &#127775;</h1>
 
