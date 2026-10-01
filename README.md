@@ -7,14 +7,14 @@
 <h3> About Our Project </h3>
 <p> Our project is the Stargazing Quality Predictor, which will use a combination of humidity, temperature, and visibility to determine the most likely quality of stargazing the next night. The project is useful because it will help anyone from an amateur level to possibly experts determine if the next night is a good night to stargaze or not. This can reduce near-misses of seeing an astrological event occurring, and gives people time to plan, if needed.
 </p>
-<br>
-<h3> Tools to get you started!</h3><br>
+
+<h3> Tools to get you started!</h3>
 <p> 
 * Python 3.10+ (Pandas, NumPy, Scikit-Learn, Requests)
 * AWS CLI configured with S3 bucket read/write access
 * 
 </p>
-<br>
+
 <h3> Need Help? Submit to our forum! :D</h3>
 <p>
 You can also submit questions and concerns via email through! Please see the forum link below. 
