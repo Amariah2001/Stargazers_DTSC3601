@@ -1,4 +1,4 @@
-<img src="GalaxyPhoto.jpg" width="25" height="30">
+<img src="[GalaxyPhoto.jpg](https://media.istockphoto.com/id/157639696/photo/purple-space-stars.jpg?s=612x612&w=0&k=20&c=fkLtGZxUS9UPlLJUTeGjvvURT0u-vtxvj5sAYbDNrH4=)" width="25" height="30">
 
 <h1 style="text-align:center;"> &#127775; Welcome to our ReadMe! &#127775;</h1>
 
