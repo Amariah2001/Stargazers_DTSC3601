@@ -1,4 +1,4 @@
-<img src="downloads/GalaxyPhoto" width="25" height="30">
+<img src="downloads/GalaxyPhoto" alt="[Insert Galaxy Photo Here!]" width="25" height="30">
 
 <h1 style="text-align:center;"> &#127775; Welcome to our ReadMe! &#127775;</h1>
 
