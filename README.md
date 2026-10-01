@@ -1,4 +1,4 @@
-<img src="https://www.istockphoto.com/photos/galaxy" width="25" height="30">
+<img src="downloads/GalaxyPhoto" width="25" height="30">
 
 <h1 style="text-align:center;"> &#127775; Welcome to our ReadMe! &#127775;</h1>
 
