@@ -13,9 +13,11 @@
 
 <h3> Tools to get you started!</h3>
 <p> 
-* Python 3.10+ (Pandas, NumPy, Scikit-Learn, Requests)
-* AWS CLI configured with S3 bucket read/write access
-* 
+<ul>
+<li>Python 3.10+ (Pandas, NumPy, Scikit-Learn, Requests)</li>
+<li>AWS CLI configured with S3 bucket read/write access</li>
+<li></li> 
+</ul>
 </p>
 
 <h3> Need Help? Submit to our forum! :D</h3>
