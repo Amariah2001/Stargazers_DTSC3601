@@ -23,12 +23,19 @@
 <h3> Need Help? Submit to our forum! :D</h3>
 <p>
 You can also submit questions and concerns via email through! Please see the forum link below. 
-Notes: Please be as detailed as possible when submitting your suggestions as we will decide if the overall contribution is probable for our project. Thank you!
+Note: Please be as detailed as possible when submitting your questions and concerns so we can be as thorough when addressing your concern(s). Thank you!
 </p>
 
+<h3> Contributions </h3>
+<p>
+  Based on our license agreement, we are allowing anyone to use our code and make contributions, suggestions, and comments for any possible changes that can overall improve the quality and efficiency of our project. 
+   Note: Please be as detailed as possible when submitting your contributions as we will decide if the overall contribution is probable for our project.
+</p>
 
-
-
+<h3> License </h3>
+<p>
+  Open Database License (ODBL). <a href="https://www.cmu.edu/cttec/forms/opensourcelicensegridv1.pdf">Carnegie Mellon University Open-Source License Comparisons></a>
+</p>
 
 </body>
 </html>
