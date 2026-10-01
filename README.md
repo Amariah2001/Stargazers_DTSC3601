@@ -34,7 +34,7 @@ Note: Please be as detailed as possible when submitting your questions and conce
 
 <h3> License </h3>
 <p>
-  Open Database License (ODBL). <a href="https://www.cmu.edu/cttec/forms/opensourcelicensegridv1.pdf">Carnegie Mellon University Open-Source License Comparisons></a>
+  Open Database License (ODBL). <a href="https://opendatacommons.org/licenses/odbl/summary/"> Summary of Open Database License <a href="https://www.cmu.edu/cttec/forms/opensourcelicensegridv1.pdf"> Carnegie Mellon University Open-Source License Comparisons</a>
 </p>
 
 </body>
