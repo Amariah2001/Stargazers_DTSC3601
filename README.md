@@ -35,9 +35,9 @@ Note: Please be as detailed as possible when submitting your questions and conce
 <h3> License </h3>
 <p>
   Open Database License (ODBL). <br>
-  <a href="https://opendatacommons.org/licenses/odbl/summary/"> Summary of Open Database License (Human-Readable)</a> <br>
-  <a href="https://www.cmu.edu/cttec/forms/opensourcelicensegridv1.pdf"> Carnegie Mellon University Open-Source License Comparisons</a> <br>
-  <a href="https://openweathermap.org/full-price#licenses"> OpenWeatherMap License Agreement </a>
+  <li><a href="https://opendatacommons.org/licenses/odbl/summary/"> Summary of Open Database License (Human-Readable)</a> </li> <br>
+  <li><a href="https://www.cmu.edu/cttec/forms/opensourcelicensegridv1.pdf"> Carnegie Mellon University Open-Source License Comparisons</a> </li> <br>
+  <li><a href="https://openweathermap.org/full-price#licenses"> OpenWeatherMap License Agreement </a></li>
 </p>
 
 Thank you for reading our README and enjoy the project!! &#127776;
