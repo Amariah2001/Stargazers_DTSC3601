@@ -1,5 +1,8 @@
 <html>
-<img src="https://github.com/user-attachments/assets/1d9457ce-1ea9-4801-97dd-82c075e85b46" align="center" alt="[Insert Galaxy Photo Here!]" width="612" height="362" >
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1d9457ce-1ea9-4801-97dd-82c075e85b46" alt="[Insert Galaxy Photo Here!]" width="612" height="362" >
+</p>
 
 <body> 
 <h1 align="center"> &#127775; Welcome to our ReadMe! &#127775;</h1>
