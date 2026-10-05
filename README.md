@@ -8,7 +8,7 @@
 <h1 align="center"> &#127776; Welcome to our ReadMe! &#127776;</h1>
 
 <h3> About Our Project </h3>
-<p> Our project is the Stargazing Quality Predictor, which will use a combination of humidity, temperature, and visibility to determine the most likely quality of stargazing the next night. The project is useful because it will help anyone from an amateur level to possibly experts determine if the next night is a good night to stargaze or not. This can reduce near-misses of seeing an astrological event occurring, and gives people time to plan, if needed.
+<p> Our project is the Stargazing Quality Predictor, which will use a combination of humidity, temperature, and visibility to determine the most likely quality of stargazing the next night. The project is useful because it will help anyone from an amateur level to possibly experts determine if the next night is a good night to stargaze or not. This can reduce near-misses of seeing an astrological event occurring, and gives people time to plan, if needed. Our goal is to inspire more people to step outside and look at the stars without the guesswork. &#127776;
 </p>
 
 <h3> Tools to get you started!</h3>
