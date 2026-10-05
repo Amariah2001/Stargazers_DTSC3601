@@ -20,7 +20,7 @@
 </ul>
 </p>
 
-<h3> Need Help? Submit to our forum! &#127773; </h3>
+<h3> Need Help? Submit to our Forum! &#127773; </h3>
 <p>
 You can also submit questions and concerns via email through! Please see the forum link below. 
 Note: Please be as detailed as possible when submitting your questions and concerns so we can be as thorough when addressing your concern(s). Thank you!
