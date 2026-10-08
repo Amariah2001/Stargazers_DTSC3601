@@ -30,13 +30,13 @@
 <h3> Need Help? Submit to our Forum! &#127773; </h3>
 <p>
 You can also submit questions and concerns via email through! Please see the forum link below. <a href="https://github.com/Amariah2001/Stargazers_DTSC3601/discussions"> Forum Link </a> <br>
-Note: Please be as detailed as possible when submitting your questions and concerns so we can be as thorough when addressing your concern(s). Thank you!
+&#127775; Note: Please be as detailed as possible when submitting your questions and concerns so we can be as thorough when addressing your concern(s). Thank you!
 </p>
 
 <h3> Contributions </h3>
 <p>
-  Based on our license agreement (OBDL), all works from this company have been publicly accessible in following of the license agreement. We are allowing anyone to use our code and make contributions, suggestions, and comments for any possible changes that can overall improve the quality and efficiency of our project, as long as OpenWeatherMap is attributed to their workings, per the OBDL license. More on the licensing regulations down below. 
-   Note: Please be as detailed as possible when submitting your contributions as we will decide if the overall contribution is probable for our project.
+  Based on our license agreement (OBDL), all works from this company have been publicly accessible in following of the license agreement. We are allowing anyone to use our code and make contributions, suggestions, and comments for any possible changes that can overall improve the quality and efficiency of our project, as long as OpenWeatherMap is attributed to their workings, per the OBDL license. More on the licensing regulations down below. <br>
+   &#127775; Note: Please be as detailed as possible when submitting your contributions as we will decide if the overall contribution is probable for our project.
 </p>
 
 <h3> License </h3>
