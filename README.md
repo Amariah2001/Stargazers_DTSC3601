@@ -13,11 +13,18 @@
 
 <h3> Tools to get you started!</h3>
 <p> 
-<ul>
+  <ul>
 <li>Python 3.10+ (Pandas, NumPy, Scikit-Learn, Requests)</li>
 <li>AWS CLI configured with S3 bucket read/write access</li>
-<li>Possibly an API token <b>(double check!!!)</b></li> 
-</ul>
+<li>Possibly an API token </li> 
+  </ul>
+</p>
+
+<h3> Quick Start Guide</h3>
+<p>
+  <ul>
+    <li><b>INSERT CODE SNIPPET HERE FOR EASY COPY/PASTE</b></li>
+  </ul>
 </p>
 
 <h3> Need Help? Submit to our Forum! &#127773; </h3>
@@ -34,7 +41,7 @@ Note: Please be as detailed as possible when submitting your questions and conce
 
 <h3> License </h3>
 <p>
-  Open Database License (ODBL). <br>
+  <b> Open Database License (ODBL). </b><br> 
   <ul>
   <li><a href="https://opendatacommons.org/licenses/odbl/summary/"> Summary of Open Database License (Human-Readable)</a> </li> <br>
   <li><a href="https://www.cmu.edu/cttec/forms/opensourcelicensegridv1.pdf"> Carnegie Mellon University Open-Source License Comparisons</a> </li> <br>
