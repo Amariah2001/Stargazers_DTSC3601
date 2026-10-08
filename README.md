@@ -35,7 +35,7 @@ Note: Please be as detailed as possible when submitting your questions and conce
 
 <h3> Contributions </h3>
 <p>
-  Based on our license agreement, we are allowing anyone to use our code and make contributions, suggestions, and comments for any possible changes that can overall improve the quality and efficiency of our project. 
+  Based on our license agreement (OBDL), all works from this company have been publicly accessible in following of the license agreement. We are allowing anyone to use our code and make contributions, suggestions, and comments for any possible changes that can overall improve the quality and efficiency of our project, as long as OpenWeatherMap is attributed to their workings, per the OBDL license. More on the licensing regulations down below. 
    Note: Please be as detailed as possible when submitting your contributions as we will decide if the overall contribution is probable for our project.
 </p>
 
