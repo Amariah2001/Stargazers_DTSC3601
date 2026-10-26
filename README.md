@@ -23,7 +23,8 @@
 <h3> Quick Start Guide </h3>
 
 ```
-pip install scikit-learn boto3 requests
+# installing libraries onto your computer (just in case)
+pip install requests pandas boto3 scikit-learn xgboost numpy json
 ```
 
 <h3> Need Help? Submit to our Forum! &#127773; </h3>
