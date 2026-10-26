@@ -22,7 +22,9 @@
 
 <h3> Quick Start Guide </h3>
 <p>
-  ```python  pip install scikit-learn boto3 requests```
+  ```
+  pip install scikit-learn boto3 requests
+  ```
 </p>
 
 <h3> Need Help? Submit to our Forum! &#127773; </h3>
