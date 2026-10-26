@@ -20,11 +20,10 @@
   </ul>
 </p>
 
-<h3> Quick Start Guide</h3>
+<h3> Quick Start Guide </h3>
 <p>
-  <ul>
-    <li><b>INSERT CODE SNIPPET HERE FOR EASY COPY/PASTE</b></li>
-  </ul>
+  ```python
+  pip install scikit-learn boto3 requests 
 </p>
 
 <h3> Need Help? Submit to our Forum! &#127773; </h3>
