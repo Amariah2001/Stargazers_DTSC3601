@@ -24,6 +24,7 @@
 <p>
   ```python
   pip install scikit-learn boto3 requests 
+  ```
 </p>
 
 <h3> Need Help? Submit to our Forum! &#127773; </h3>
